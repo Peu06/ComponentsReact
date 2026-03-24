@@ -6,8 +6,8 @@ Projeto de exemplo em React com componentes reutilizáveis.
 
 Antes de começar, verifique se você tem instalado:
 
-- [Node.js](https://nodejs.org/) (versão recomendada >= 16)
-- npm (geralmente instalado junto com o Node.js)
+- [Node.js](https://nodejs.org/)
+- npm (geralmente instalado junto com o Node.js).=
 
 # Instalando e executando o projeto
 
